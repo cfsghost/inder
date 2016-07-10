@@ -1,0 +1,24 @@
+{
+  "name": "inder",
+  "version": "0.0.1",
+  "description": "Application architecture for building user interface",
+  "main": "./lib/inder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfsghost/inder.git"
+  },
+  "keywords": [
+    "web",
+    "application",
+    "architecture"
+  ],
+  "author": "Fred Chien <cfsghost@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cfsghost/inder/issues"
+  },
+  "homepage": "https://github.com/cfsghost/inder#readme"
+}
