@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/cfsghost/inder/issues"
   },
-  "homepage": "https://github.com/cfsghost/inder#readme"
+  "homepage": "https://github.com/cfsghost/inder#readme",
+  "devDependencies": {
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "babel-polyfill": "^6.9.1",
+    "babel-preset-es2016": "^6.11.3",
+    "babel-runtime": "^6.9.2",
+    "webpack": "^1.13.1"
+  }
 }
